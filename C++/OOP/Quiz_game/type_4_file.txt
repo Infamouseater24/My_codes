@@ -1,0 +1,10 @@
+31	What is the capital of Bhutan?	Thimphu	Kathmandu	Dhaka	Yangon	A
+32	Who wrote One Hundred Years of Solitude?	Gabriel Garcia Marquez	Mario Vargas Llosa	Julio Cortazar	Isabel Allende	A
+33	What is the Heisenberg Uncertainty Principle related to?	Time	Position	Speed	Energy	B
+34	In which year did the United Nations come into existence?	1942	1945	1948	1950	B
+35	What is the rarest blood type?	O-	AB+	AB-	B+	C
+36	Who formulated the laws of motion?	Galileo Galilei	Albert Einstein	Isaac Newton	Nikola Tesla	C
+37	What is the atomic number of carbon?	4	6	8	12	B
+38	Which planet has the most moons?	Earth	Mars	Saturn	Jupiter	D
+39	What is the main ingredient in traditional Japanese miso soup?	Tofu	Seaweed	Soybeans	Rice	C
+40	Who is considered the primary author of the Declaration of Independence?	George Washington	John Adams	Thomas Jefferson	Benjamin Franklin	C

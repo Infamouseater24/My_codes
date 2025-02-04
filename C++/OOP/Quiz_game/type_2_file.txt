@@ -1,0 +1,10 @@
+11	Who is the author of The Catcher in the Rye?	J.D. Salinger	Ernest Hemingway	F. Scott Fitzgerald	John Steinbeck	A
+12	What is the capital of Australia?	Sydney	Melbourne	Canberra	Perth	C
+13	What is the hardest natural substance on Earth?	Gold	Iron	Diamond	Platinum	C
+14	In which year did the Titanic sink?	1910	1912	1914	1916	B
+15	Who discovered penicillin?	Marie Curie	Albert Einstein	Alexander Fleming	Isaac Newton	C
+16	What is the chemical symbol for gold?	Gd	Ag	Au	Pb	C
+17	Which planet is known as the Morning Star or the Evening Star?	Mars	Venus	Jupiter	Saturn	B
+18	Who developed the theory of relativity?	Isaac Newton	Galileo Galilei	Niels Bohr	Albert Einstein	D
+19	What is the largest desert in the world?	Sahara	Arabian	Gobi	Antarctic	A
+20	Who is known as the Father of Computers?	Charles Babbage	Alan Turing	John von Neumann	Steve Jobs	A

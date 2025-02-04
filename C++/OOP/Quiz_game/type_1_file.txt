@@ -1,0 +1,10 @@
+1	What is the capital of France?	Paris	London	Berlin	Madrid	A
+2	Which planet is known as the Red Planet?	Earth	Mars	Jupiter	Saturn	B
+3	Who wrote Romeo and Juliet?	Mark Twain	William Shakespeare	Charles Dickens	Jane Austen	B
+4	What is the largest ocean on Earth?	Indian Ocean	Arctic Ocean	Atlantic Ocean	Pacific Ocean	D
+5	Which element is represented by the symbol O?	Oxygen	Gold	Silver	Iron	A
+6	What is the largest mammal in the world?	Elephant	Blue Whale	Giraffe	Hippopotamus	B
+7	How many continents are there on Earth?	Five	Six	Seven	Eight	C
+8	What is the boiling point of water in Celsius?	90	100	110	120	B
+9	Which is the smallest prime number?	0	1	2	3	C
+10	Who painted the Mona Lisa?	Vincent van Gogh	Pablo Picasso	Leonardo da Vinci	Michelangelo	C

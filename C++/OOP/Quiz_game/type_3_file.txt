@@ -1,0 +1,10 @@
+21	What is the capital of Croatia?	Zagreb	Belgrade	Ljubljana	Sarajevo	A
+22	Who wrote The Divine Comedy?	Geoffrey Chaucer	Homer	Dante Alighieri	Virgil	C
+23	What is the square root of 144?	10	11	12	13	C
+24	In which year did the Berlin Wall fall?	1987	1988	1989	1990	C
+25	What is the smallest country in the world by land area?	Monaco	Nauru	San Marino	Vatican City	D
+26	Who was the first woman to win a Nobel Prize?	Marie Curie	Rosalind Franklin	Ada Lovelace	Lise Meitner	A
+27	What is the longest river in the world?	Amazon	Nile	Yangtze	Mississippi	B
+28	Who painted the ceiling of the Sistine Chapel?	Leonardo da Vinci	Raphael	Donatello	Michelangelo	D
+29	What is the speed of light in a vacuum?	300,000 km/s	150,000 km/s	250,000 km/s	200,000 km/s	A
+30	What is the chemical formula for table salt?	NaCl	KCl	MgCl2	CaCl2	A

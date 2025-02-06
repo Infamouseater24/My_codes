@@ -1,0 +1,7 @@
+kapil 101 5500
+aananda 102 2000
+ram 103 5500
+ishwor 104 3800
+abhiujan 105 7000
+sujan 106 52000
+samyog 107 16000
